@@ -14,5 +14,7 @@
     "url": "https://github.com/netlify/edge-functions-examples/issues"
   },
   "homepage": "https://github.com/netlify/edge-functions-examples#readme",
-  "dependencies": {}
+  "dependencies": {
+    "@netlify/functions": "^1.3.0"
+  }
 }
