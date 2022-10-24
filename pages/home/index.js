@@ -4,7 +4,7 @@ export default {
   page: function () {
     return `
     <section class="home__section">
-    <h2>Examples</h2>
+    <h2>Examples - Test branch</h2>
     <p>
       Explore the examples below, or over in the <a href="https://github.com/netlify/edge-functions-examples" target="_BLANK" rel="noopener">GitHub repository</a> for this site.
     </p>
@@ -26,7 +26,7 @@ export default {
     <li class="home__sectionListItem home__sectionListItem"><a class="home__sectionListItemLink" href="/example/proxy-requests">Proxy requests to another source</a></li>
     </ul>
     </section>
-    
+
     <section class="home__section">
     <h3 class="home__sectionHeader">HTTP Headers</h3>
     <ul class="home__sectionList">
@@ -34,7 +34,7 @@ export default {
     <li class="home__sectionListItem"><a class="home__sectionListItemLink" href="/example/set-response-header">Set custom HTTP response headers</a></li>
     </ul>
     </section>
-    
+
     <section class="home__section">
       <h3 class="home__sectionHeader">Transforming responses</h3>
       <ul class="home__sectionList">
@@ -42,7 +42,7 @@ export default {
         <li class="home__sectionListItem"><a class="home__sectionListItemLink" href="/example/include">Content includes</a></li>
       </ul>
     </section>
-    
+
     <section class="home__section">
       <h3 class="home__sectionHeader">Geolocation</h3>
       <ul class="home__sectionList">
